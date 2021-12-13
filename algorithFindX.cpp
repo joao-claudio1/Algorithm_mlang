@@ -80,8 +80,7 @@ void fazKeli() {
 					  {
 						  soma+=sum;
 					  }
-					     cout  <<f<<" "<<v<<" "<<"sum ="<<sum<<endl;
-					      cout  <<f<<" "<<v<<" "<<"soma="<<soma<<endl;
+					  
 				    break;
 					}
 				}
