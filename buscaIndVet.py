@@ -12,7 +12,6 @@ def buscaNaVe(nums, target):
 
 if __name__ == "__main__":
     input = sys.stdin.readline
-
     nums = list(map(int, input().split()))
     target = int(input())
     k = buscaNaVe(nums, target)
