@@ -32,7 +32,6 @@ int binarySearch(vector<long long int> &vet,int b,int es,int di){
 	}	
 }
 
-
 long long int berificaEl(long long int n){
 	
 long long int kt =0 , kq = 1, kc = 1, conta=1;
@@ -74,5 +73,5 @@ ios::sync_with_stdio(false);
  
     cout <<berificaEl(n)<<"\n";	 
  }
-	return 0;
+    return 0;
 }
